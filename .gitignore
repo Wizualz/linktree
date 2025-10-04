@@ -1,0 +1,13 @@
+ node_modules/
+ dist/
+ build/
+
+ # Ignore editor and OS files
+ .DS_Store
+ .vscode/
+ .idea/
+ *.log
+
+ # Ignore sensitive files
+ .env
+ *.md
